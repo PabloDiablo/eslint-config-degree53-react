@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-degree53-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Degree 53 ESLint Config",
   "main": "index.js",
   "repository": {
