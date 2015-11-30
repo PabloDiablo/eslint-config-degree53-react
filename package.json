@@ -1,0 +1,16 @@
+{
+  "name": "eslint-config-degree53-react",
+  "version": "1.0.0",
+  "description": "React Degree 53 ESLint Config",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Degree53/eslint-config-degree53-react.git"
+  },
+  "author": "Mike Geldard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Degree53/eslint-config-degree53-react/issues"
+  },
+  "homepage": "https://github.com/Degree53/eslint-config-degree53-react"
+}
