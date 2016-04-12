@@ -6,7 +6,7 @@ module.exports = {
 		"ecmaFeatures": {
 			"jsx": true
 		}
-	}
+	},
 
 	"plugins": [
 		"react"
