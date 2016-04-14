@@ -1,8 +1,8 @@
 # Degree 53 React ESLint Config
 
-This config is dependent on `eslint`, `babel-eslint` and `eslint-plugin-react` being installed to your `./node_modules` at the same level as your `.eslintrc.js` file.
+This config is dependent on `v2.7.0` of `eslint` and `v4.3.0` of `eslint-plugin-react` being installed to your `./node_modules`.
 
-In your project `eslintrc.js` file:
+Your `.eslintrc` file should be at the same level as your `./node_modules` and should contain the following:
 
 ``` javascript
 {
@@ -11,5 +11,7 @@ In your project `eslintrc.js` file:
 	]
 }
 ```
+
+***NOTE:*** If you are using `babel`, you will also need to install `babel-eslint`.
 
 For an explanation of the rules please see the [ESLint documentation](http://eslint.org/docs/rules/).
