@@ -30,7 +30,7 @@ module.exports = {
 		"react/jsx-no-bind": [ 2, {
 			"allowArrowFunctions": false,
 			"allowBind": false,
-			"ignoreRefs": false
+			"ignoreRefs": true
 		}],
 		"react/jsx-no-duplicate-props": [ 2, {
 			"ignoreCase": true
