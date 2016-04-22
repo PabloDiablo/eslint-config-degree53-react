@@ -12,7 +12,7 @@ Your `.eslintrc` file should be at the same level or deeper than your `./node_mo
 }
 ```
 
-***NOTE:*** If you are using `babel`, you will also need to install `babel-eslint` and add the following to your `.esintrc` file:
+***NOTE:*** If you are using `babel`, you will also need to install `babel-eslint` and add the following to your `.eslintrc` file:
 
 ``` javascript
 {
