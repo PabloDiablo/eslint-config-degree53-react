@@ -17,7 +17,7 @@ module.exports = {
 		"react/forbid-prop-types": 0,
 		"react/jsx-boolean-value": [ 2, "always" ],
 		"react/jsx-closing-bracket-location": 0,
-		"react/jsx-curly-spacing": [ 2, "never" ],
+		"react/jsx-curly-spacing": 0,
 		"react/jsx-equals-spacing": [ 2, "never" ],
 		"react/jsx-first-prop-new-line": 0,
 		"react/jsx-handler-names": 0,
@@ -26,7 +26,7 @@ module.exports = {
 		"react/jsx-key": 2,
 		"react/jsx-max-props-per-line": 0,
 		"react/jsx-no-bind": [ 2, {
-			"allowArrowFunctions": false,
+			"allowArrowFunctions": true,
 			"allowBind": false,
 			"ignoreRefs": true
 		}],
@@ -63,7 +63,6 @@ module.exports = {
 					
 					"displayName",
 					"mixins",
-					"statics",
 					
 					"contextTypes",
 					"childContextTypes",
@@ -76,6 +75,8 @@ module.exports = {
 					"state",
 					"constructor",
 					"getInitialState",
+					
+					"statics",
 					
 					"componentWillMount",
 					"componentDidMount",
