@@ -40,7 +40,7 @@ module.exports = {
 		"react/jsx-space-before-closing": 0,
 		"react/jsx-uses-react": 2,
 		"react/jsx-uses-vars": 2,
-		"react/no-danger": 2,
+		"react/no-danger": 1,
 		"react/no-did-mount-set-state": 2,
 		"react/no-did-update-set-state": 2,
 		"react/no-direct-mutation-state": 2,
